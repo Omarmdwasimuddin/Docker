@@ -6,4 +6,5 @@
 #### Class-03: [Docker Hub](https://github.com/Omarmdwasimuddin/Docker-Hub)
 #### Class-04: [Docker Desktop](https://github.com/Omarmdwasimuddin/Docker-Desktop)
 #### Class-05: [Running Node.js Container in Docker](https://github.com/Omarmdwasimuddin/Docker-Desktop-Image)
-#### Class-06: [Dockerizing a Node.js Express Application]()
+#### Class-06: [Dockerizing a Node.js Express Application](https://github.com/Omarmdwasimuddin/Docker-Desktop-Dockerizing-a-Node.js-Express-Application)
+#### Class-07: []()
