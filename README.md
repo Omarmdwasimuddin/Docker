@@ -13,5 +13,5 @@
 #### Class-10: [Docker Volumes](https://github.com/Omarmdwasimuddin/Docker-Desktop-Volumes)
 #### Class-11: [Bind Mount & Live Reload](https://github.com/Omarmdwasimuddin/Docker-Desktop-Create-Volumes)
 #### Class-12: [Docker Compose (compose.yaml)](https://github.com/Omarmdwasimuddin/Docker-Desktop-Composefile)
-#### Class-13: [](https://github.com/Omarmdwasimuddin/Docker-Desktop-Docker-Hub)
+#### Class-13: [Push & Pull Images with Docker Hub](https://github.com/Omarmdwasimuddin/Docker-Desktop-Docker-Hub)
 #### Class-14: []()
