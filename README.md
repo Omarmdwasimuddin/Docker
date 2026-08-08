@@ -16,5 +16,5 @@
 #### Class-13: [Push & Pull Images with Docker Hub](https://github.com/Omarmdwasimuddin/Docker-Desktop-Docker-Hub)
 #### Class-14: [Docker-Desktop: GitLab Setup](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Setup)
 #### Class-15: [Docker Desktop: GitLab Server with Docker Compose](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-with-Docker-Compose)
-#### Class-16: []()
+#### Class-16: [Docker Desktop: GitLab Server vs GitLab Runner](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-vs-GitLab-Runner)
 #### Class-17: []()
