@@ -17,4 +17,4 @@
 #### Class-14: [Docker-Desktop: GitLab Setup](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Setup)
 #### Class-15: [Docker Desktop: GitLab Server with Docker Compose](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-with-Docker-Compose)
 #### Class-16: [Docker Desktop: GitLab Server vs GitLab Runner](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-vs-GitLab-Runner)
-#### Class-17: [](https://github.com/Omarmdwasimuddin/Docker-Desktop-Register-GitLab-Runner-with-GitLab-Server)
+#### Class-17: [Docker Desktop: GitLab Runner Setup and Registration](https://github.com/Omarmdwasimuddin/Docker-Desktop-Register-GitLab-Runner-with-GitLab-Server)
