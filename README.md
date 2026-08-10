@@ -30,3 +30,9 @@
 
 ## Production
 
+---
+
+## Errors Handling
+#### [Docker Desktop - "Error: An error occurred while loading the images list"](https://github.com/Omarmdwasimuddin/Docker-Errors)
+
+---
