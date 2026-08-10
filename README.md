@@ -20,7 +20,7 @@
 #### Class-17: [Docker Desktop: GitLab Runner Setup and Registration](https://github.com/Omarmdwasimuddin/Docker-Desktop-Register-GitLab-Runner-with-GitLab-Server)
 ---
 
-#### [Dockerfile](https://github.com/Omarmdwasimuddin/NextJS-dockerfile)
+#### [NextJS: Dockerfile and .dockerignore](https://github.com/Omarmdwasimuddin/NextJS-dockerfile)
 
 ---
 
