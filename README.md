@@ -36,6 +36,6 @@
 
 ## Problem Solving
 #### [Docker Desktop - "Error: An error occurred while loading the images list"](https://github.com/Omarmdwasimuddin/Docker-Errors)
-#### [GitLab Account: Password and Email Change](https://github.com/Omarmdwasimuddin/GitLab-Account-Password-and-Email-Change)
+#### [GitLab Account: Admin Password and Email Change](https://github.com/Omarmdwasimuddin/GitLab-Account-Password-and-Email-Change)
 
 ---
