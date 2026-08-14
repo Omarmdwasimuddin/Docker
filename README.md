@@ -33,6 +33,7 @@
 ---
 
 ## Production
+#### [NextJS Project Dockerize](https://github.com/Omarmdwasimuddin/NextJS-Project-Dockerize-Production-level)
 
 ---
 
