@@ -34,7 +34,7 @@
 
 ## Production
 #### [Containerize a Next.js application: standalone approach (Production level)](https://github.com/Omarmdwasimuddin/NextJS-Project-Dockerize-Production-level)
-#### [Containerize a Next.js application: standalone approach ()]()
+#### [Containerize a Next.js application: standalone approach (development mode (Dockerfile.dev + Compose Watch with hot-reload))]()
 
 ---
 
