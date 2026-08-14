@@ -28,6 +28,7 @@
 
 #### [Docker Desktop: GitLab SSH Key](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-SSH-Key)
 #### [Docker Desktop: GitLab- groups and projects create with push](https://github.com/Omarmdwasimuddin/GitLab-groups-and-projects-push)
+#### [Docker Desktop: GitLab Branching & Merge Request](https://github.com/Omarmdwasimuddin/Gitlab-Branch)
 
 ---
 
