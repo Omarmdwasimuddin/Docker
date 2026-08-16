@@ -37,6 +37,7 @@
 #### [Containerize a Next.js application: standalone approach (development mode (Dockerfile.dev + Compose Watch with hot-reload))](https://github.com/Omarmdwasimuddin/hot-reload)
 #### [Dev and Prod: Concept](https://github.com/Omarmdwasimuddin/dev-prod-concept)
 #### [Containerize a Next.js application: export approach (Production level)](https://github.com/Omarmdwasimuddin/Containerize-export-approach)
+#### [Containerize a Nest.js application](https://github.com/Omarmdwasimuddin/NestJS-Containerize)
 
 ---
 
