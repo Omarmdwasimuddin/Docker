@@ -47,6 +47,7 @@
 #### [PostgreSQL in Docker: Setup, Persistence, Config, Networking & Companion Tools](https://github.com/Omarmdwasimuddin/Docker-PostgreSQL)
 #### [Pre-seeding database in Docker](https://github.com/Omarmdwasimuddin/Docker-Pre-seeding-database)
 #### [Securing your software supply chain with Docker Scout](https://github.com/Omarmdwasimuddin/Securing-your-software-supply-chain-with-Docker-Scout)
+#### [Introduction to GitHub Actions with Docker](https://github.com/Omarmdwasimuddin/Introduction-to-GitHub-Actions-with-Docker)
 
 ---
 
